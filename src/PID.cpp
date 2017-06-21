@@ -73,7 +73,7 @@ void PID::Init(double Kp, double Ki, double Kd) {
     dp[KI] = 0.01;
     dp[KD] = 1.;
 
-  Please see the file 'readme_pid.txt'. It has full logs.
+  Please see the file 'twiddle_log.txt'. It has full logs.
 
 */
 // 2nd -- the best vaules of 1st try
